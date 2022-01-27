@@ -21,4 +21,10 @@ print (appState)
 var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne > numberTwo
+var square: String
+square = "five"
+var triangle: String
+triangle = "five"
+var rectangle = square == triangle
+print(rectangle)
 
